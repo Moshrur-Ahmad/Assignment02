@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="558a8920-2942-415f-9cc7-5c0ed86b23cd" name="Changes" comment="Substring functionalities" />
+    <list default="true" id="558a8920-2942-415f-9cc7-5c0ed86b23cd" name="Changes" comment="Substring functionalitiy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DigitSeparation.executor": "Run",
     "Application.FileNameAndLocation.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PunctuationRemoval.executor": "Run",
@@ -80,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710848253087</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Substring functionalitiy">
+      <option name="closed" value="true" />
+      <created>1710848672384</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710848672384</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +106,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic Main Branch with string functionalities" />
     <MESSAGE value="Substring functionalities" />
-    <option name="LAST_COMMIT_MESSAGE" value="Substring functionalities" />
+    <MESSAGE value="Substring functionalitiy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Substring functionalitiy" />
   </component>
 </project>
