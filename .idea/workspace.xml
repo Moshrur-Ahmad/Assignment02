@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="558a8920-2942-415f-9cc7-5c0ed86b23cd" name="Changes" comment="Number to Month" />
+    <list default="true" id="558a8920-2942-415f-9cc7-5c0ed86b23cd" name="Changes" comment="Militaryformat time" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="E-4.18" />
+        <entry key="$PROJECT_DIR$" value="E-4.16" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,14 +36,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BaloonAndBaloonTester.executor": "Run",
     "Application.DigitSeparation.executor": "Run",
     "Application.FileNameAndLocation.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MilitaryFormatTime.executor": "Run",
     "Application.PunctuationRemoval.executor": "Run",
     "Application.TransformationNumberToMonthName.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "E-4.16",
+    "git-widget-placeholder": "E-4.23",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/Java Program/E4.11-P4.2/src/Main.java",
     "settings.editor.selected.configurable": "preferences.editor"
@@ -106,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710902789583</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Militaryformat time">
+      <option name="closed" value="true" />
+      <created>1710903501375</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710903501375</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +136,7 @@
     <MESSAGE value="Substring functionalitiy" />
     <MESSAGE value="Digit Seperation" />
     <MESSAGE value="Number to Month" />
-    <option name="LAST_COMMIT_MESSAGE" value="Number to Month" />
+    <MESSAGE value="Militaryformat time" />
+    <option name="LAST_COMMIT_MESSAGE" value="Militaryformat time" />
   </component>
 </project>
