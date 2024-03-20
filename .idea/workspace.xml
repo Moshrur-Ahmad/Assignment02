@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="558a8920-2942-415f-9cc7-5c0ed86b23cd" name="Changes" comment="Digit Seperation" />
+    <list default="true" id="558a8920-2942-415f-9cc7-5c0ed86b23cd" name="Changes" comment="Number to Month" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="E-4.15" />
+        <entry key="$PROJECT_DIR$" value="E-4.18" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,9 +40,10 @@
     "Application.FileNameAndLocation.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PunctuationRemoval.executor": "Run",
+    "Application.TransformationNumberToMonthName.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "E-4.18",
+    "git-widget-placeholder": "E-4.16",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/Java Program/E4.11-P4.2/src/Main.java",
     "settings.editor.selected.configurable": "preferences.editor"
@@ -97,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710848991158</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Number to Month">
+      <option name="closed" value="true" />
+      <created>1710902789583</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710902789583</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +125,7 @@
     <MESSAGE value="Substring functionalities" />
     <MESSAGE value="Substring functionalitiy" />
     <MESSAGE value="Digit Seperation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Digit Seperation" />
+    <MESSAGE value="Number to Month" />
+    <option name="LAST_COMMIT_MESSAGE" value="Number to Month" />
   </component>
 </project>
